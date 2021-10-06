@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuntahaZaigham1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular, NodeJS, Ionic
+- 🌱 I’m currently learning and working with Angular, Java Spring Boot, Ionic
 - 📫 How to reach me ... https://www.linkedin.com/in/muntaha-zaigham
 
 <!---
